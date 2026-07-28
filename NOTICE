@@ -1,0 +1,18 @@
+Daojia / Daoist Advisor
+Copyright 2026 weeduon
+
+This product includes original Skill instructions, source-routing rules,
+safety guidance, and a metadata-only catalog generator.
+
+The file skill/references/daorenjia-catalog.tsv contains bibliographic-style
+metadata and links derived from publicly accessible category listings at
+https://www.daorenjia.com/. It does not contain the full scripture bodies.
+
+Daorenjia, Zhonghua Daozang, historical and modern editions, transcriptions,
+punctuation, annotations, translations, images, and other third-party content
+remain subject to the rights and terms of their respective owners. Their
+appearance in a link or metadata record does not place them under the Apache
+License 2.0.
+
+This project is independent and is not endorsed by Daorenjia, a Daoist
+institution, temple, lineage, or religious authority.
